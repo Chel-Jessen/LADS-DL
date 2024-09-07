@@ -3,7 +3,7 @@ function downloadMP4() {
     "#playback-root > div.Playerstyle__divPresentationsHolder-sc-e6eru7-1.gIGwbt > div.Playerstyle__divMainPresentationHolder-sc-e6eru7-4.eTYXmu.main-holder > div > div > div > div > div > video"
   ).src;
   let video_name = document.querySelector(
-    "#app > div.SharedVideoPagestyle__divMain-sc-b3x1f7-0.cWdScr.main.collapsed > div > div > div.SharedVideoPagestyle__divVideoWrap-sc-b3x1f7-6.hTmLvd.video-wrap > div > div.os-padding > div > div > div.SharedVideoPagestyle__divTitleWrap-sc-b3x1f7-12.hfBexk.title-wrap > p"
+    "#app > div.SharedVideoPagestyle__divMain-sc-b3x1f7-0.hzgJDE.main > div > div > div.SharedVideoPagestyle__divVideoWrap-sc-b3x1f7-7.inHITY.video-wrap > div > div.os-padding > div > div > div.SharedVideoPagestyle__divTitleWrap-sc-b3x1f7-15.dKHCnk.title-wrap > p"
   ).innerText;
 
 
